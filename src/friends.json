@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bryan_Cranston_by_Gage_Skidmore_2.jpg", 
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Anna_Gunn_by_Gage_Skidmore_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aaron_Paul_by_Gage_Skidmore_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Dean_Norris_by_Gage_Skidmore_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Betsy_Brandt_by_Gage_Skidmore.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/RJ_Mitte_by_Gage_Skidmore_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bob_Odenkirk_by_Gage_Skidmore.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Giancarlo_Esposito_by_Gage_Skidmore.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Jonathan_Banks_2012_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jesse_Plemons_%2820769593584%29.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Rhea_Seehorn_at_the_LA_Art_Show_2016.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Patrick_Fabian_on_the_Bellin_Run_2011.jpg",
+    "clicked": false
+  }
+]
+
+
+
